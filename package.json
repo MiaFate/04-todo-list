@@ -1,0 +1,10 @@
+{
+  "name": "04-tareas-hacer",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
