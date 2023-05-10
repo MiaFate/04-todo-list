@@ -3,8 +3,11 @@
   "scripts": {
     "start": "node app.js"
   },
+  "type": "module",
   "packageManager": "yarn@3.5.0",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "inquirer": "^9.2.2",
+    "uuid": "^9.0.0"
   }
 }
